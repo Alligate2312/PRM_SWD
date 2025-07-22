@@ -28,6 +28,7 @@
         <activity android:name=".UserManagementActivity" android:exported="false" />
         <activity android:name=".PlushieManagementActivity" android:exported="false" />
         <activity android:name=".PlushieListActivity" />
+        <activity android:name=".PlushieDetailActivity"/>
     </application>
 
 </manifest>
